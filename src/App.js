@@ -10,7 +10,7 @@ function App() {
                 <h2>Heman Robinson</h2>
                 <p>
                 <a href="https://www.linkedin.com/in/heman-robinson-953a1223/">on LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://github.com/hemanrobinson/hemanrobinson.github.io">on GitHub</a>
+                <a href="https://github.com/hemanrobinson">on GitHub</a>
                 </p>
                 <p>
                 My career has been spent designing and developing user interfaces and data visualizations.
