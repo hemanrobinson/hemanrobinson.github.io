@@ -1,6 +1,6 @@
 # Heman Robinson
                 
-[on LinkedIn]https://www.linkedin.com/in/heman-robinson-953a1223/)
+[on LinkedIn](https://www.linkedin.com/in/heman-robinson-953a1223/)
 
 My career has been spent designing and developing user interfaces and data visualizations.  
 
