@@ -4,9 +4,9 @@
                 
 [on GitHub Pages](https://hemanrobinson.github.io)
 
-My career has been spent designing and developing user interfaces and data visualizations.  
+My career has been spent designing and developing user interfaces and visualizations for data analysis. 
 
-Both fields have lots of little unsolved problems, and GitHub provides a place to solve them.
+These fields have lots of little unsolved problems, and GitHub provides a place to solve them.
 
 ### [SVG versus CANVAS](https://hemanrobinson.github.io/svg-canvas/)
 ### [Preattentive Plot Symbols](https://hemanrobinson.github.io/preattentive/)

@@ -13,10 +13,10 @@ function App() {
                 <a href="https://github.com/hemanrobinson/hemanrobinson.github.io">on GitHub</a>
                 </p>
                 <p>
-                My career has been spent designing and developing user interfaces and data visualizations.
+                My career has been spent designing and developing user interfaces and visualizations for data analysis.
                 </p>
                 <p>
-                Both fields have lots of little unsolved problems, and GitHub provides a place to solve them.
+                These fields have lots of little unsolved problems, and GitHub provides a place to solve them.
                 </p>
             </div>
             <div className="App">
