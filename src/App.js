@@ -31,7 +31,7 @@ function App() {
                 <br />
                 <h2>Inspiration</h2>
                 <p>
-                    <img src="inspiration.jpg"/>
+                    <img alt="Inspiration" src="inspiration.jpg"/>
                 </p>
                 <p>
                 My main influences are Cleveland and Tufte, who emphasize the data and de-emphasize everything else.  Few is expert on usability, particularly of dashboards.
