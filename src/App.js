@@ -34,7 +34,7 @@ function App() {
                     <img src="inspiration.jpg"/>
                 </p>
                 <p>
-                My main influences are Cleveland and Tufte, who emphasize the data and de-emphasize everything else.  Wilkinson brlliantly codified how to architect a graphics framework.  Few  excels on usability, particularly of dashboards.
+                My main influences are Cleveland and Tufte, who emphasize the data and de-emphasize everything else.  Few is expert on usability, particularly of dashboards.
                 </p>
             </div>
         </div>
