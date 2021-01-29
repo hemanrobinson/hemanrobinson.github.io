@@ -20,9 +20,22 @@ function App() {
                 </p>
             </div>
             <div className="App">
-                <ReportCard title="SVG versus CANVAS"     href="https://hemanrobinson.github.io/svg-canvas/"    img="svgcanvas.png"  text="Simple Performance Test"   />
-                <ReportCard title="Preattentive Symbols"  href="https://hemanrobinson.github.io/preattentive/"  img="symbols.png"    text="Improving Pattern Detection in Scatter Plots" />
-                <ReportCard title="Zooming Aggregates"    href="https://hemanrobinson.github.io/zoom/"          img="zoom.png"       text="Applying Shneiderman's Mantra to Aggregate Graphs" />
+                <ReportCard title="Preattentive Symbols"  href="https://hemanrobinson.github.io/preattentive/"  img="symbols.png"    text="Improving Pattern Detection" />
+                <ReportCard title="Zooming Aggregates"    href="https://hemanrobinson.github.io/zoom/"          img="zoom.png"       text="Applying Shneiderman's Mantra" />
+                <ReportCard title="Brushing One Million"  href="https://hemanrobinson.github.io/brush/"         img="brush.png"      text="Scatterplot Brushing Performance" />
+                <ReportCard title="SVG versus CANVAS"     href="https://hemanrobinson.github.io/svg-canvas/"    img="svgcanvas.png"  text="SVG versus Canvas Performance" />
+            </div>
+            <div className="Description">
+                <br />
+                <br />
+                <br />
+                <h2>Inspiration</h2>
+                <p>
+                    <img src="inspiration.jpg"/>
+                </p>
+                <p>
+                My main influences are Cleveland and Tufte, who emphasize the data and de-emphasize everything else.  Wilkinson brlliantly codified how to architect a graphics framework.  Few  excels on usability, particularly of dashboards.
+                </p>
             </div>
         </div>
     );
