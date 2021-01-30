@@ -16,7 +16,7 @@ function App() {
                 My career has been spent designing and developing user interfaces and visualizations for data analysis.
                 </p>
                 <p>
-                These fields have lots of little unsolved problems, and GitHub provides a place to solve them.
+                These fields have lots of little unsolved problems, and GitHub provides a wonderful place to solve them.
                 </p>
             </div>
             <div className="App">
@@ -31,10 +31,16 @@ function App() {
                 <br />
                 <h2>Inspiration</h2>
                 <p>
-                    <img alt="Inspiration" src="inspiration.jpg"/>
+                    <img alt="Inspiration: Visualization" src="inspiration0.jpg"/>
                 </p>
                 <p>
-                My main influences are Cleveland and Tufte, who emphasize the data and de-emphasize everything else.  Few is expert on usability, particularly of dashboards.
+                On visualization, my main influences are <a href="https://www.stat.purdue.edu/~wsc/">Cleveland</a> and <a href="https://www.edwardtufte.com/tufte/">Tufte</a>, who emphasize the data and de-emphasize everything else.  <a href="https://www.perceptualedge.com">Few</a> is an expert on usability of visualizations, particularly of dashboards.
+                </p>
+                <p>
+                    <img alt="Inspiration: Usability" src="inspiration1.jpg"/>
+                </p>
+                <p>
+                On user interface design, my main influences are <a href="http://www.cs.umd.edu/users/ben/">Shneiderman</a> and <a href="https://www.nngroup.com/people/jakob-nielsen/">Nielsen</a>.  I believe in following known standards and design patterns, like <a href="https://material.io">Material Design</a>, to reduce the user's learning curve.
                 </p>
             </div>
         </div>

@@ -6,7 +6,7 @@
 
 My career has been spent designing and developing user interfaces and visualizations for data analysis. 
 
-These fields have lots of little unsolved problems, and GitHub provides a place to solve them.
+These fields have lots of little unsolved problems, and GitHub provides a wonderful place to solve them.
 
 ### [Preattentive Plot Symbols](https://hemanrobinson.github.io/preattentive/)
 ### [Zooming Aggregate Graphs](https://hemanrobinson.github.io/zoom/)
