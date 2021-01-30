@@ -22,7 +22,7 @@ function App() {
             <div className="App">
                 <ReportCard title="Preattentive Symbols"  href="https://hemanrobinson.github.io/preattentive/"  img="symbols.png"    text="Improving Pattern Detection" />
                 <ReportCard title="Zooming Aggregates"    href="https://hemanrobinson.github.io/zoom/"          img="zoom.png"       text="Applying Shneiderman's Mantra" />
-                <ReportCard title="Brushing One Million"  href="https://hemanrobinson.github.io/brush/"         img="brush.png"      text="Scatterplot Brushing Performance" />
+                <ReportCard title="Brushing a Million"    href="https://hemanrobinson.github.io/brush/"         img="brush.png"      text="Scatterplot Brushing Performance" />
                 <ReportCard title="SVG versus CANVAS"     href="https://hemanrobinson.github.io/svg-canvas/"    img="svgcanvas.png"  text="SVG versus Canvas Performance" />
             </div>
             <div className="Description">
