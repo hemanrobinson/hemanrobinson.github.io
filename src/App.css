@@ -1,0 +1,30 @@
+/* Application: layouts. */
+div {
+    text-align: center;
+    gap: 20px;
+}
+.App {
+    text-align: center;
+    display: grid;
+    gap: 20px;
+}
+.One {
+    grid-template-columns: repeat( 1, 1fr );
+    max-width: 300px;
+    margin: 0 auto;
+}
+.Two {
+    grid-template-columns: repeat( 2, 1fr );
+    max-width: 600px;
+    margin: 0 auto 20px auto;
+}
+.Three {
+    grid-template-columns: repeat( 3, 1fr );
+    max-width: 900px;
+    margin: 0 auto 20px auto;
+}
+.Description {
+    text-align: left;
+    max-width: 800px;
+    margin: 0 auto;
+}
