@@ -16,7 +16,7 @@ function App() {
                     My career has been spent designing and developing user interfaces and data visualizations.
                 </p>
                 <p>
-                    These fields present many interesting problems.  I hope that others may benefit from these suggested solutions.
+                    These fields present many interesting problems.  I hope others may benefit from these suggested solutions.
                 </p>
                 <p>
                     All the code here is under MIT license.  If you can suggest improvements, please contact me on LinkedIn.  Thanks!
