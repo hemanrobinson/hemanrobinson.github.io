@@ -13,5 +13,5 @@ All the code here is under MIT license.  If you can suggest improvements, please
 ### [Preattentive Plotting](https://hemanrobinson.github.io/preattentive/)
 ### [Persistent Brushing](https://hemanrobinson.github.io/brush/)
 ### [Dynamic Binning](https://hemanrobinson.github.io/bin/)
-### [Discoverable Zooming](https://hemanrobinson.github.io/zoom/)
+### [Learnable Zooming](https://hemanrobinson.github.io/zoom/)
 ### [SVG versus CANVAS](https://hemanrobinson.github.io/svg-canvas/)
