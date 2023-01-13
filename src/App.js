@@ -24,7 +24,7 @@ function App() {
             </div>
             <div className="App Two">
                 <ReportCard title="Preattentive Plotting" href="https://hemanrobinson.github.io/preattentive/"  img="symbols.png"    text="Discriminable Plot Symbols" />
-                <ReportCard title="Persistent Brushing"   href="https://hemanrobinson.github.io/brush/"         img="brush.png"      text="Brush Performance and Usability" />
+                <ReportCard title="Optimized Brushing"    href="https://hemanrobinson.github.io/brush/"         img="brush.png"      text="Brush Performance and Usability" />
             </div>
             <div className="App Two">
                 <ReportCard title="Dynamic Binning"       href="https://hemanrobinson.github.io/bin/"           img="bin.png"        text="Interactive Bin Adjustment" />
