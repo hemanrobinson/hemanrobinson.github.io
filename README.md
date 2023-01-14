@@ -4,7 +4,7 @@
                 
 [on GitHub Pages](https://hemanrobinson.github.io)
 
-My career has been spent designing and developing user interfaces and data visualizations.  
+Throughout my career, I've designed and developed user interfaces for data visualization.
 
 These fields present many interesting problems.  I hope that others may benefit from these suggested solutions.  
 

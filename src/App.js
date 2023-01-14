@@ -13,7 +13,7 @@ function App() {
                 <a href="https://github.com/hemanrobinson/hemanrobinson.github.io">on GitHub</a>
                 </p>
                 <p>
-                    My career has been spent designing and developing user interfaces and data visualizations.
+                    Throughout my career, I've designed and developed user interfaces for data visualization.
                 </p>
                 <p>
                     These fields present many interesting problems.  I hope others may benefit from these suggested solutions.
