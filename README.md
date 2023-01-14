@@ -6,7 +6,7 @@
 
 Throughout my career, I've designed and developed user interfaces for data visualization.
 
-These fields present many interesting problems.  I hope that others may benefit from these suggested solutions.  
+I'd like to contribute a few ideas from past projects, hoping that they may help others. 
 
 All the code here is under MIT license.  If you can suggest improvements, please contact me on LinkedIn.  Thanks!
 

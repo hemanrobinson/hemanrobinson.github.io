@@ -16,7 +16,7 @@ function App() {
                     Throughout my career, I've designed and developed user interfaces for data visualization.
                 </p>
                 <p>
-                    These fields present many interesting problems.  I hope others may benefit from these suggested solutions.
+                    I'd like to contribute a few ideas from past projects, hoping that they may help others. 
                 </p>
                 <p>
                     All the code here is under MIT license.  If you can suggest improvements, please contact me on LinkedIn.  Thanks!
