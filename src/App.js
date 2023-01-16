@@ -9,17 +9,18 @@ function App() {
             <div className="Description">
                 <h2>Heman Robinson</h2>
                 <p>
-                <a href="https://www.linkedin.com/in/heman-robinson-953a1223/">on LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://github.com/hemanrobinson/hemanrobinson.github.io">on GitHub</a>
+                    Throughout my career, I've developed user interfaces for data visualization.  I'd like to contribute a few ideas that may help others.
                 </p>
                 <p>
-                    Throughout my career, I've designed and developed user interfaces for data visualization.
+                    Click on any project below.  For each, you'll find:
                 </p>
+                <ul>
+                    <li>Working code under MIT license</li>
+                    <li>Design notes that drove the solution</li>
+                    <li>References that informed the project</li>
+                </ul>
                 <p>
-                    I'd like to contribute a few ideas from past projects, hoping that they may help others. 
-                </p>
-                <p>
-                    All the code here is under MIT license.  If you can suggest improvements, please contact me on LinkedIn.  Thanks!
+                    If you can suggest improvements, please contact me on <a href="https://www.linkedin.com/in/heman-robinson-953a1223/">LinkedIn</a>.  Thanks!
                 </p>
             </div>
             <div className="App Two">
