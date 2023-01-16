@@ -9,7 +9,7 @@ function App() {
             <div className="Description">
                 <h2>Heman Robinson</h2>
                 <p>
-                    Throughout my career, I've developed user interfaces for data visualization.  I'd like to contribute a few ideas that may help others.
+                    Throughout my career, I've developed user interfaces for data visualization.  These ideas from past projects may help others.
                 </p>
                 <p>
                     Click on any project below.  For each, you'll find:
