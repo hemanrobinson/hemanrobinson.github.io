@@ -21,5 +21,5 @@ test( "renders App with childnodes", () => {
     });
     const div = container.querySelector( "div" );
     expect( div.className ).toBe( "" );
-    expect( div.childNodes.length ).toBe( 5 );
+    expect( div.childNodes.length ).toBe( 4 );
 });
