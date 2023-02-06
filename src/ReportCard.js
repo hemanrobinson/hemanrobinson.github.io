@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardHeader, CardMedia, CardContent, CardActionArea } from '@material-ui/core';
+import { Card, CardHeader, CardMedia, CardContent, CardActionArea } from '@mui/material';
 
 // Report Card:  A Card with title, link, thumbnail, and text.
 function ReportCard({ title, href, img, text }) {
