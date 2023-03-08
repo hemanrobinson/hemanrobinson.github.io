@@ -12,7 +12,7 @@ If you can suggest improvements, please contact me on [LinkedIn](https://www.lin
 ### [Preattentive Plotting](https://hemanrobinson.github.io/preattentive/)
 ### [Optimized Brushing](https://hemanrobinson.github.io/brush/)
 ### [Dynamic Binning](https://hemanrobinson.github.io/bin/)
-### [Learnable Zooming](https://hemanrobinson.github.io/zoom/)
+### [Accessible Zooming](https://hemanrobinson.github.io/zoom/)
 ### [SVG versus CANVAS](https://hemanrobinson.github.io/svg-canvas/)
 
 
