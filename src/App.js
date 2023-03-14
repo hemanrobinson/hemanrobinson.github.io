@@ -29,7 +29,7 @@ function App() {
             </div>
             <div className="App Two">
                 <ReportCard title="Dynamic Binning"       href="https://hemanrobinson.github.io/bin/"           img="bin.png"        text="Interactive Bin Adjustment" />
-                <ReportCard title="Accessible Zooming"    href="https://hemanrobinson.github.io/zoom/"          img="zoom.png"       text="Accessible Scale Adjustment" />
+                <ReportCard title="Discoverable Zooming"  href="https://hemanrobinson.github.io/zoom/"          img="zoom.png"       text="Scale Adjustment with Feedback" />
             </div>
             <div className="Description">
                 <br />
