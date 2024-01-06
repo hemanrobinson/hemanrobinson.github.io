@@ -1,13 +1,11 @@
-# Heman Robinson
+# Heman Robinson [![LinkedIn](src/linkedin.png "Brush")](https://www.linkedin.com/in/heman-robinson-953a1223/)
 
 Throughout my career, I've developed user interfaces for data visualization.  These ideas from past projects may help others. 
 
 Click on any project below.  For each, you'll find:
 * Working code under MIT license
 * Design notes that drove the solution
-* References that informed the project 
-
-If you can suggest improvements, please contact me on [LinkedIn](https://www.linkedin.com/in/heman-robinson-953a1223/).  Thanks!
+* References that informed the project
 
 ### [Preattentive Plotting](https://hemanrobinson.github.io/preattentive/)
 ### [Optimized Brushing](https://hemanrobinson.github.io/brush/)
