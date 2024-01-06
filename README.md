@@ -1,4 +1,4 @@
-# Heman Robinson [![LinkedIn](src/linkedin.svg "LinkedIn")](https://www.linkedin.com/in/heman-robinson-953a1223/)
+# [Heman Robinson](https://www.linkedin.com/in/heman-robinson-953a1223/)
 
 Throughout my career, I've developed user interfaces for data visualization.  These ideas from past projects may help others. 
 
