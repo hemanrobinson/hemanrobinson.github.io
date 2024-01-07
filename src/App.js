@@ -9,9 +9,9 @@ function App() {
     return (
         <div>
             <div className="Description">
-                <h1>Heman Robinson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hemanrobinson/"><img className="icon" title="Code Shared on GitHub" alt="Code Shared on GitHub" src={github}/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/heman-robinson-953a1223/"><img className="icon" title="Contact me on LinkedIn" alt="Contact me on LinkedIn" src={linkedin}/></a></h1>
+                <h1>Heman Robinson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hemanrobinson/hemanrobinson.github.io"><img className="icon" title="Code Shared on GitHub" alt="Code Shared on GitHub" src={github}/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/heman-robinson-953a1223/"><img className="icon" title="Contact me on LinkedIn" alt="Contact me on LinkedIn" src={linkedin}/></a></h1>
                 <p>
-                    Throughout my career, I've developed user interfaces for data visualization.  These ideas from past projects may help others.
+                    I've spent my career developing user interfaces for data visualization. These ideas from past projects may help others.
                 </p>
                 <p>
                     Click on any project below.  For each, you'll find:

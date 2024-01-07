@@ -13,10 +13,4 @@ Click on any project below.  For each, you'll find:
 ### [Discoverable Zooming](https://hemanrobinson.github.io/zoom/)
 ### [SVG versus CANVAS](https://hemanrobinson.github.io/svg-canvas/)
 
-
-
-
-
-
-
-
+[This project demonstrates user interfaces for data visualization.](https://hemanrobinson.github.io/hemanrobinson/)
