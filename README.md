@@ -2,7 +2,7 @@
 
 [This project demonstrates user interfaces for data visualization.](https://hemanrobinson.github.io/)
 
-I've spent my career developing user interfaces for data visualization. These ideas from past projects may help others.
+I've spent my career developing user interfaces and data visualizations. These ideas from past projects may help others.
 
 Click on any project below.  For each, you'll find:
 * Working code under MIT license
