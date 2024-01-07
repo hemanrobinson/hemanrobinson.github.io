@@ -1,6 +1,6 @@
-# [Heman Robinson](https://www.linkedin.com/in/heman-robinson-953a1223/)
+# Heman Robinson [![Brush](src/linkedin.svg=24x24 "LinkedIn")](https://www.linkedin.com/in/heman-robinson-953a1223/)
 
-Throughout my career, I've developed user interfaces for data visualization.  These ideas from past projects may help others. 
+I've spent my career developing user interfaces for data visualization. These ideas from past projects may help others.
 
 Click on any project below.  For each, you'll find:
 * Working code under MIT license
