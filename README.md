@@ -1,6 +1,6 @@
-# Heman Robinson [![LinkedIn](src/linkedin.svg  "LinkedIn")](https://www.linkedin.com/in/heman-robinson-953a1223/)
+# Heman Robinson [![LinkedIn](src/linkedin.svg  "LinkedIn" =24x24)](https://www.linkedin.com/in/heman-robinson-953a1223/)
 
-Heman Robinson [![LinkedIn](src/linkedin.svg "LinkedIn")](https://www.linkedin.com/in/heman-robinson-953a1223/)
+Heman Robinson [![LinkedIn](src/linkedin.svg "LinkedIn" | width=24)](https://www.linkedin.com/in/heman-robinson-953a1223/)
 
 I've spent my career developing user interfaces for data visualization. These ideas from past projects may help others.
 
