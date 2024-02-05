@@ -10,7 +10,7 @@ Click on any project below.  For each, you'll find:
 * References for further reading
 
 ### [Preattentive Plotting](https://hemanrobinson.github.io/preattentive/)
-### [Optimized Brushing](https://hemanrobinson.github.io/brush/)
+### [Optimized Brushing](https://hemanrobinson.github.io/fast-brushing/)
 ### [Dynamic Binning](https://hemanrobinson.github.io/bin/)
 ### [Discoverable Zooming](https://hemanrobinson.github.io/zoom/)
-### [SVG versus CANVAS](https://hemanrobinson.github.io/svg-canvas/)
+### [SVG versus CANVAS](https://hemanrobinson.github.io/svg-canvas-performance/)
