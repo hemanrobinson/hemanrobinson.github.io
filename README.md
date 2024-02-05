@@ -6,8 +6,8 @@ I've spent my career developing user interfaces and data visualizations. These i
 
 Click on any project below.  For each, you'll find:
 * Working code under MIT license
-* Design notes that drove the solution
-* References that informed the project
+* Usability considerations that drove the design
+* References for further reading
 
 ### [Preattentive Plotting](https://hemanrobinson.github.io/preattentive/)
 ### [Optimized Brushing](https://hemanrobinson.github.io/brush/)
