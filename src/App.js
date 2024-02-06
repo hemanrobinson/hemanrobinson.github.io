@@ -23,12 +23,12 @@ function App() {
                 </ul>
             </div>
             <div className="App Two">
-                <ReportCard title="Preattentive Plotting" href="https://hemanrobinson.github.io/preattentive/"  img="symbols.png"    text="Discriminable Plot Symbols" />
-                <ReportCard title="Optimized Brushing"    href="https://hemanrobinson.github.io/fast-brushing/" img="fast-brushing.png"      text="Brushing Performance and Usability" />
+                <ReportCard title="Good Plot Symbols"       href="https://hemanrobinson.github.io/good-plot-symbols/"   img="good-plot-symbols.png" text="Preattentive Symbols for Pattern Detection" />
+                <ReportCard title="Optimized Brushing"      href="https://hemanrobinson.github.io/fast-brushing/"       img="fast-brushing.png"     text="Brushing Performance and Usability" />
             </div>
             <div className="App Two">
-                <ReportCard title="Dynamic Binning"       href="https://hemanrobinson.github.io/bin/"           img="bin.png"        text="Interactive Bin Adjustment" />
-                <ReportCard title="Discoverable Zooming"  href="https://hemanrobinson.github.io/zoom/"          img="zoom.png"       text="Easily Learned Scale Adjustment" />
+                <ReportCard title="Dynamic Binning"         href="https://hemanrobinson.github.io/bin/"                 img="bin.png"               text="Interactive Bin Adjustment" />
+                <ReportCard title="Discoverable Zooming"    href="https://hemanrobinson.github.io/zoom/"                img="zoom.png"              text="Easily Learned Scale Adjustment" />
             </div>
             <div className="Description">
                 <h2>Inspiration</h2>
