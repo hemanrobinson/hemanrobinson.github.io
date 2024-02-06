@@ -14,3 +14,5 @@ Click on any project below.  For each, you'll find:
 ### [Dynamic Binning](https://hemanrobinson.github.io/bin/)
 ### [Discoverable Zooming](https://hemanrobinson.github.io/zoom/)
 ### [SVG versus CANVAS](https://hemanrobinson.github.io/svg-canvas-performance/)
+
+These projects use [React](https://react.dev), [Material-UI](https://github.com/mui-org/material-ui), and [d3](https://github.com/d3/d3).
