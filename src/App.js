@@ -8,7 +8,7 @@ import linkedin from './linkedin.svg';
 function App() {
     return (
         <div>
-            <div className="Description">/Users/hemanrobinson/Desktop/fast-brushing-small.png
+            <div className="Description">
                 <h1>Heman Robinson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hemanrobinson/hemanrobinson.github.io"><img className="icon" title="Code Shared on GitHub" alt="Code Shared on GitHub" src={github}/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/heman-robinson-953a1223/"><img className="icon" title="Contact me on LinkedIn" alt="Contact me on LinkedIn" src={linkedin}/></a></h1>
                 <p>
                     I've spent my career developing user interfaces and data visualizations. These ideas from past projects may help others.
