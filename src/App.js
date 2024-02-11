@@ -28,7 +28,7 @@ function App() {
             </div>
             <div className="App Two">
                 <ReportCard title="Top N and Binning"   href="https://hemanrobinson.github.io/top-n-binning/"       img="top-n-binning-small.png"     text="Dynamic Top N and Binning Visualizations" />
-                <ReportCard title="Learnable Zooming"   href="https://hemanrobinson.github.io/zooming-usability/"   img="panning-zooming-small.png"   text="Easily Learned Zooming" />
+                <ReportCard title="Learnable Zooming"   href="https://hemanrobinson.github.io/zooming-usability/"   img="zooming-usability-small.png" text="Easily Learned Zooming" />
             </div>
             <div className="Description">
                 <h2>Inspiration</h2>
