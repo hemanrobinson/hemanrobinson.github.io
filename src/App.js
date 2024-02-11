@@ -23,12 +23,12 @@ function App() {
                 </ul>
             </div>
             <div className="App Two">
-                <ReportCard title="Good Plot Symbols"           href="https://hemanrobinson.github.io/good-plot-symbols/"   img="good-plot-symbols-small.png" text="Symbols with Preattentive Features that Improve Usability" />
-                <ReportCard title="Optimized Brushing"          href="https://hemanrobinson.github.io/fast-brushing/"       img="fast-brushing-small.png"     text="Usability and Performance Optimizations for Brushing" />
+                <ReportCard title="Good Plot Symbols"   href="https://hemanrobinson.github.io/good-plot-symbols/"   img="good-plot-symbols-small.png" text="Symbols with Preattentive Features that Improve Usability" />
+                <ReportCard title="Optimized Brushing"  href="https://hemanrobinson.github.io/fast-brushing/"       img="fast-brushing-small.png"     text="Usability and Performance Optimizations for Brushing" />
             </div>
             <div className="App Two">
-                <ReportCard title="Top N and Binning"           href="https://hemanrobinson.github.io/top-n-binning/"       img="top-n-binning-small.png"     text="Dynamic Top N and Binning Visualizations" />
-                <ReportCard title="Panning and Zooming"         href="https://hemanrobinson.github.io/panning-zooming/"     img="panning-zooming-small.png"   text="Easily Learned Panning and Zooming" />
+                <ReportCard title="Top N and Binning"   href="https://hemanrobinson.github.io/top-n-binning/"       img="top-n-binning-small.png"     text="Dynamic Top N and Binning Visualizations" />
+                <ReportCard title="Learnable Zooming"   href="https://hemanrobinson.github.io/zooming-usability/"   img="panning-zooming-small.png"   text="Easily Learned Zooming" />
             </div>
             <div className="Description">
                 <h2>Inspiration</h2>
