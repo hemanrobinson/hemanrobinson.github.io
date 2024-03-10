@@ -10,5 +10,5 @@ Click on any project below.  For each, you'll find:
 ### [Good Plot Symbols](https://hemanrobinson.github.io/good-plot-symbols/)
 ### [Optimized Brushing](https://hemanrobinson.github.io/fast-brushing/)
 ### [Dynamic Top N and Binning Visualizations](https://hemanrobinson.github.io/top-n-binning/)
-### [Easily Learned Panning and Zooming](https://hemanrobinson.github.io/panning-zooming/)
+### [Zooming Usability](https://hemanrobinson.github.io/zooming-usability/)
 ### [SVG versus CANVAS Performance](https://hemanrobinson.github.io/svg-canvas-performance/)
