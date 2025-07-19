@@ -22,13 +22,21 @@ function App() {
                     <li>References for further reading</li>
                 </ul>
             </div>
-            <div className="App Two">
-                <ReportCard title="Good Plot Symbols"   href="https://hemanrobinson.github.io/good-plot-symbols/"   img="good-plot-symbols-small.png" text="Symbols with Preattentive Features that Improve Usability" />
-                <ReportCard title="Optimized Brushing"  href="https://hemanrobinson.github.io/fast-brushing/"       img="fast-brushing-small.png"     text="Usability and Performance Optimizations for Brushing" />
+            <div className="App Three">
+                <ReportCard title="SVG vs. CANVAS"              href="https://hemanrobinson.github.io/svg-canvas-performance/"
+                    img="svg-canvas-performance-small.png"      text="Performance test of SVG and CANVAS elements" />
+                <ReportCard title="Good Plot Symbols"           href="https://hemanrobinson.github.io/good-plot-symbols/"
+                    img="good-plot-symbols-small.png"           text="Symbols with Preattentive Features that Improve Usability" />
+                <ReportCard title="Optimized Brushing"          href="https://hemanrobinson.github.io/fast-brushing/"
+                    img="fast-brushing-small.png"               text="Usability and Performance Optimizations for Brushing" />
             </div>
-            <div className="App Two">
-                <ReportCard title="Top N and Binning"   href="https://hemanrobinson.github.io/top-n-binning/"       img="top-n-binning-small.png"     text="Dynamic Top N and Binning Visualizations" />
-                <ReportCard title="Zooming Usability"   href="https://hemanrobinson.github.io/zooming-usability/"   img="zooming-usability-small.png" text="An Easily Learned User Interface for Zooming" />
+            <div className="App Three">
+                <ReportCard title="Top N and Binning"           href="https://hemanrobinson.github.io/top-n-binning/"
+                    img="top-n-binning-small.png"               text="Dynamic Top N and Binning Visualizations" />
+                <ReportCard title="Zooming Usability"           href="https://hemanrobinson.github.io/zooming-usability/"
+                    img="zooming-usability-small.png"           text="An Easily Learned User Interface for Zooming" />
+                <ReportCard title="Proportional Highlighting"     href="https://hemanrobinson.github.io/proportional-highlighting/"
+                    img="proportional-highlighting-small.png"   text="Design Patterns for Proportional Highlighting" />
             </div>
             <div className="Description">
                 <h2>Inspiration</h2>

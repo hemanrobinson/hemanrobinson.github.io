@@ -4,9 +4,9 @@ import { Card, CardHeader, CardMedia, CardContent, CardActionArea } from '@mui/m
 // Report Card:  A Card with title, link, thumbnail, and text.
 function ReportCard({ title, href, img, text }) {
     return (
-        <Card style={{maxWidth: 300}}>
+        <Card style={{maxWidth: 310}}>
             <CardActionArea component="a" href={href}>
-                <CardHeader title={title} />
+                <CardHeader title={title}/>
                 <CardMedia style={{height: 0, paddingTop: '66.67%'}} image={img} title={title} />
                 <CardContent>{text}</CardContent>
             </CardActionArea>
